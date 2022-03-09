@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDataCaching", "AppDataCaching\AppDataCaching.csproj", "{C407EB31-D1FD-44FF-90FF-43AADE3427FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C407EB31-D1FD-44FF-90FF-43AADE3427FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C407EB31-D1FD-44FF-90FF-43AADE3427FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C407EB31-D1FD-44FF-90FF-43AADE3427FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C407EB31-D1FD-44FF-90FF-43AADE3427FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF5A6DF4-0ED5-492E-94CF-FBACF9264604}
+	EndGlobalSection
+EndGlobal
